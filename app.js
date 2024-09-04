@@ -13,7 +13,7 @@
 })();
 
 var typed = new Typed(".multiple-text", {
-    strings: ["Web Developer", "PCB Designer", "Digital System Designer"],
+    strings: ["Web Developer", "PCB Designer", "Embedded Engineer", "UX Designer"],
     typeSpeed: 80,
     backSpeed: 80,
     backDelat: 1000,
